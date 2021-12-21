@@ -1,7 +1,7 @@
 # scriptable-kpay-widget
 Kiezelpay widget for Scriptable app.
 
-This is a widget for Scriptable app (https://scriptable.app) to show your Kiezelpay (https://kiezelpay.co) statistics. The code is heavely based on kStats (https://github.com/john-reno/kStats).
+This is a widget for Scriptable app (https://scriptable.app) to show your Kiezelpay (https://kiezelpay.com) statistics. The code is heavely based on kStats (https://github.com/john-reno/kStats).
 
 ![alt text](screenshot.png "see screenshot.png")
 
